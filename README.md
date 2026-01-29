@@ -16,4 +16,5 @@ It turned out to be the opposite. According to creator John Gruber’s syntax gu
 
 As I’m completing this assignment and writing this paragraph, I can see what he means. Markdown feels simple and straightforward. It also doesn’t feel like a completely new syntax system, since some of its basic commands I’ve already seen in somewhere else. Just like the author points out,
 > "The simplicity and flexibility meant I would live the dream of write once, run anywhere."
+
 This feels especially relevant for our class because we’ll have a lot of collaboration on projects. I think Markdown will make it easy for a team to maintain one clear README file for anyone who is reading.
