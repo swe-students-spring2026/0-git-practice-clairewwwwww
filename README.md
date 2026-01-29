@@ -18,3 +18,7 @@ As I’m completing this assignment and writing this paragraph, I can see what h
 > "The simplicity and flexibility meant I would live the dream of write once, run anywhere."
 
 This feels especially relevant for our class because we’ll have a lot of collaboration on projects. I think Markdown will make it easy for a team to maintain one clear README file for anyone who is reading.
+
+
+### Comment from Hanson
+Great insights to the article! I had the same feeling, I thought it was overwhelming, but it turned out to be just clean, easy-to-read and write syntax. I can understand why the professor asks us to use this, since it facilitates information gathering from the reader. I like your use of quotes that goes in between the paragraph.
